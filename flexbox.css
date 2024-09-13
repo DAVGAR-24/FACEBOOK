@@ -1,0 +1,28 @@
+.flex{
+
+
+    border: solid 1px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 500px;
+    justify-content: space-evenly;
+
+}
+
+
+
+.box{
+
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border: solid 1px; 
+    border-radius:  5px;
+    color: aquamarine;
+    text-align: center;
+    align-items: center;
+
+
+}

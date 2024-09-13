@@ -1,0 +1,72 @@
+ul{
+
+    background-color: rgb(229, 243, 243);
+}
+
+h2{
+
+    background-color: rgb(230, 160, 69);
+}
+
+
+
+
+ol{
+
+    background-color: rgb(180, 48, 48);
+}
+
+
+  
+
+
+
+ .box{
+
+    width: 40px;
+    height: 20px;
+    margin: 7px 7px 7px 10px;
+    border: solid 3px #a90be2;
+    padding-left: 20px;
+    padding:  20px 0 0 20px;
+    background-color: rgb(214, 214, 55);
+ }
+
+.cajita{
+
+    width: 100px;
+    height: 100px;
+    background-color: rgb(223, 18, 59);
+    padding-left: 10px;
+    border: solid 2px yellow;
+     margin-bottom: 10px;
+     margin-left: 300px;
+     border-radius: 10px;
+
+  }
+
+.azul{
+
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    padding-left: 10px;
+    border: solid 2px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+
+    border-radius: 10px;
+  }
+
+  p{
+
+   
+  }
+
+
+
+
+    
+    
+
+ 
